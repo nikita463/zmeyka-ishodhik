@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\imguiWindow.h(173,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\imguiWindow.h(174,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\imguiWindow.h(210,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\imguiWindow.h(210,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\main.h(69,67): warning C4459: объявление "posx" скрывает глобальное объявление
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\imguiWindow.h(17,7): message : см. объявление "posx"
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\main.h(69,67): warning C4459: объявление "posy" скрывает глобальное объявление
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\imguiWindow.h(18,7): message : см. объявление "posy"
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\main.h(69,67): warning C4459: объявление "appx" скрывает глобальное объявление
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\imguiWindow.h(22,7): message : см. объявление "appx"
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\main.h(69,67): warning C4459: объявление "appy" скрывает глобальное объявление
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\imguiWindow.h(23,7): message : см. объявление "appy"
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\main.cpp(81,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+library_x64.lib(auth.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в main.obj
+library_x64.lib(auth.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в main.obj
+library_x64.lib(auth.obj) : warning LNK4099: "library_x64.pdb" PDB не найден с "library_x64.lib(auth.obj)" или на "C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\Debug\library_x64.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+library_x64.lib(utils.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в main.obj
+library_x64.lib(utils.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в main.obj
+library_x64.lib(utils.obj) : warning LNK4099: "library_x64.pdb" PDB не найден с "library_x64.lib(utils.obj)" или на "C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\Debug\library_x64.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+library_x64.lib(hmac_sha256.obj) : warning LNK4099: "library_x64.pdb" PDB не найден с "library_x64.lib(hmac_sha256.obj)" или на "C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\Debug\library_x64.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+library_x64.lib(sha256.obj) : warning LNK4099: "library_x64.pdb" PDB не найден с "library_x64.lib(sha256.obj)" или на "C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\Debug\library_x64.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+C:\Users\Nikitos\Documents\Visual Studio 2022\MyProjects\Zmeyka\Zmeyka\Debug\example_win32_directx12.exe : fatal error LNK1319: обнаружено несоответствий: 4
